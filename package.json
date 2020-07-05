@@ -1,0 +1,19 @@
+{
+  "name": "how-fast-is-vite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jay-es/how-fast-is-vite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jay-es/how-fast-is-vite/issues"
+  },
+  "homepage": "https://github.com/jay-es/how-fast-is-vite#readme"
+}
